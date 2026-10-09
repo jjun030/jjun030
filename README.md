@@ -1,4 +1,4 @@
-### Hi there 👋
+   ### 안녕하세요, 준영입니다
 
 <!--
 **jjun030/jjun030** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
