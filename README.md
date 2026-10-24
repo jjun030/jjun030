@@ -24,6 +24,16 @@
 
 ## Projects
 
+### [part너 (student-council)](./projects/student-council.md) · 회의 녹음에서 학생회 업무를 부서별로 나누고, 지출 규정을 원문 근거와 함께 알려 주는 서비스
+`2026.10` · 5인 팀 프로젝트 · 지출 절차 안내 담당
+
+- 처음 주제(가구 조립 설명서 3D)를 설문 16명 결과로 접고, 회장 5명 모두 겪는 업무 분배 문제로 전환
+- 학교 규정에서 후보 조항을 서버가 찾고(MySQL FULLTEXT), CLOVA Studio가 승인·증빙·금지 항목을 안내
+- AI가 낸 인용을 서버가 원문과 조각 단위로 대조하고 금지 조항 뒤집기를 차단, 실제 규정 평가 4/13 → 9/13
+- 실제 회의 녹음 약 30분에서 업무 13개 모두 맞는 부서로 분배
+
+[상세 보기](./projects/student-council.md) · [GitHub](https://github.com/naverhood-DKU/student-council) · [서비스](https://council.naverhood.cloud)
+
 ### [peerorum](./projects/peerorum.md) · 같은 학교·학과 학생끼리 스펙을 익명으로 비교하는 서비스
 `2026.07 ~ 2026.09` · 5인 팀 프로젝트 · 백엔드, 배포 담당 · 사용자 약 50명
 
